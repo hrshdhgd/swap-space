@@ -1,2 +1,6 @@
-# swap-space
-Set swap space for memory intense projects
+```
+- name: Swap Space
+        uses: hrshdhgd/swap-space@master
+        with:
+          swap-size-gb: 10
+```
